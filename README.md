@@ -12,3 +12,6 @@ A simple and responsive To-Do List application built using **HTML, CSS, and Java
 - HTML
 - CSS
 - JavaScript
+
+## Live Demo
+ https://2004-nikita.github.io/To-do-app/
